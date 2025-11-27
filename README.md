@@ -11,7 +11,8 @@ This project is built using **JavaScript**, **jQuery**, and **Bootstrap** to dem
 
 
 ### 🖼️ UI Component Preview  
-![Component Screenshot](assets/images/components.png)
+![Component Screenshot] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9083b268-9079-40c1-aba0-35bd978c63d9" />
+
 
 > 📌 Replace image paths with your actual `images/` folder location.
 
