@@ -7,7 +7,8 @@ This project is built using **JavaScript**, **jQuery**, and **Bootstrap** to dem
 ## 📸 Project Preview
 
 ### 🖼️ Homepage Preview  
-![Homepage Screenshot](assets/images/homepage.png)
+![Homepage Screenshot]<img width="495" height="297" alt="image" src="https://github.com/user-attachments/assets/245a983c-dbfe-4c10-a9d8-867c47035f36" />
+
 
 ### 🖼️ UI Component Preview  
 ![Component Screenshot](assets/images/components.png)
